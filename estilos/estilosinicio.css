@@ -1,0 +1,23 @@
+#img1{
+    width: 350px;
+    padding: 3px;
+    margin: 3px;
+    clear: both;
+}
+#img2{
+    clip-path: ellipse();
+    width: 400px;
+    filter: sepia(80%) brightness(45%) hue-rotate(290deg);
+}
+#img3{
+    width: 720px;
+    padding: 3px;
+    margin:3px;
+    clear: both;
+}
+#img4{
+    clip-path: ellipse();
+    width: 400px;
+    filter: sepia(80%) brightness(40%) hue-rotate(290deg);
+  
+}

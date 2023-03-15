@@ -1,0 +1,8 @@
+.plat2{
+    width: 210px;
+    padding: 12px;
+    display: inline-block;
+    border: 5px double black;
+    margin: 5px;
+    float: left;
+}

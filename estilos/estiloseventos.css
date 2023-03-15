@@ -1,0 +1,15 @@
+#eve{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    clear: right;
+    
+}
+.even2{
+    display: inline-block;
+    float: left;
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    border: 7px double black;
+}

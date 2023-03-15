@@ -1,0 +1,15 @@
+#aside_col{
+    width: 30%;
+    float: left;
+    padding: 2px;
+    margin: 5px;
+    float: left;
+}
+#main_col{
+    width: 100%;
+    padding: 5px;
+    margin: 2px;
+}
+#jaguar{
+    clip-path: ellipse()
+}
